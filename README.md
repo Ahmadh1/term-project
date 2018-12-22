@@ -1,8 +1,6 @@
 # Term Project
 ## Details
 
-
-> #### The quarterly results look great!
 >
 > - Authentication with oAuth (git)
 > - User can create Discussions/threads
